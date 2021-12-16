@@ -1,0 +1,3 @@
+rootProject.name = "TinyDB"
+include ':app'
+include ':TinyDB'
