@@ -1,3 +1,5 @@
+
+ implementation 'com.github.shahbazk302:TinyDB:1.0.2'
 # TinyDB
 
 public class MainActivity extends AppCompatActivity {
